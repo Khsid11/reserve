@@ -1,6 +1,6 @@
 # Railway Reservation System
 
-![Booking Confirmation](screenshotsn.png)
+![Booking Confirmation](screenshots (282).png)
 
 ## Overview
 The Railway Reservation System is a Java Swing application designed to facilitate the booking of railway tickets. This project aims to provide users with an easy-to-use interface for searching and booking train tickets.
