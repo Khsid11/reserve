@@ -18,10 +18,3 @@ Below are some screenshots of the Railway Reservation System in action:
 ## Requirements
 - Java Development Kit (JDK) 8 or higher
 - Any IDE that supports Java (e.g., Eclipse, IntelliJ IDEA, NetBeans)
-
-## Getting Started
-
-### Clone the Repository
-To get started with the Railway Reservation System, clone this repository to your local machine using:
-```bash
-git clone https://github.com/your-username/railway-reservation-system.git
